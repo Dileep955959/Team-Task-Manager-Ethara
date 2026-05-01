@@ -42,6 +42,7 @@ Backend (Recommended Upgrade)
 
 Node.js + Express.js
 MongoDB / MySQL
+
 1️⃣ Clone the Repository
 
 https://github.com/Dileep955959/Team-Task-Manager-Ethara
@@ -60,7 +61,7 @@ Add tasks
 Track progress via dashboard
 🌐 Deployment
 
-The project is deployed using GitHub Pages: 👉 https://dileep955959.github.io/Team-Task-Manager/
+The project is deployed using GitHub Pages: 👉 https://dileep955959.github.io/Team-Task-Manager-Ethara/
 
 📈 Future Enhancements
 
