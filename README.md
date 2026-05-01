@@ -44,7 +44,7 @@ Node.js + Express.js
 MongoDB / MySQL
 1️⃣ Clone the Repository
 
-https://github.com/dileep955959/Team-Task-Manager.git
+https://github.com/Dileep955959/Team-Task-Manager-Ethara
 
 2️⃣ Open Project
 
